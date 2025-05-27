@@ -1,0 +1,7 @@
+﻿  MHUR_External_1.cpp
+  UEngine.cpp
+  WindowsOtter.cpp
+WindowsOtter.obj : error LNK2005: "unsigned __int64 __cdecl FindDMAAddy(void *,unsigned __int64,class std::vector<unsigned int,class std::allocator<unsigned int> >)" (?FindDMAAddy@@YA_KPEAX_KV?$vector@IV?$allocator@I@std@@@std@@@Z) already defined in MHUR_External_1.obj
+WindowsOtter.obj : error LNK2005: "unsigned __int64 __cdecl GetModuleBaseAddress(unsigned long,wchar_t const *)" (?GetModuleBaseAddress@@YA_KKPEB_W@Z) already defined in MHUR_External_1.obj
+WindowsOtter.obj : error LNK2005: "int __cdecl GetProcId(wchar_t const *)" (?GetProcId@@YAHPEB_W@Z) already defined in MHUR_External_1.obj
+C:\Users\gigan\source\repos\MHUR_External_1\x64\Release\MHUR_External_1.exe : fatal error LNK1169: one or more multiply defined symbols found
